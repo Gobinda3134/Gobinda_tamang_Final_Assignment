@@ -1,7 +1,8 @@
 package com.example.e_softwarica;
 
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class GalleryActivity extends AppCompatActivity {
 
@@ -11,3 +12,4 @@ public class GalleryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_gallery);
     }
 }
+

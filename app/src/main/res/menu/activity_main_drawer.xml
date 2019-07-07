@@ -11,7 +11,8 @@
         <item
             android:id="@+id/nav_staff"
             android:icon="@drawable/staff"
-            android:title="Staff Details" />
+            android:title="Staff Details"
+            />
         <item
             android:id="@+id/nav_programme"
             android:icon="@drawable/programme"
@@ -38,17 +39,5 @@
             android:title="Developer" />
     </group>
 
-    <item android:title="Communicate">
-        <menu>
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="@string/menu_share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="@string/menu_send" />
-        </menu>
-    </item>
 
 </menu>
