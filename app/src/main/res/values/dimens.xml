@@ -12,7 +12,7 @@
     <dimen name="appbar_end">230dp</dimen>
 
     <dimen name="firstimg">250dp</dimen>
-    <dimen name="one">1dp</dimen>
+    <dimen name="one">3dp</dimen>
     <dimen name="zero">0dp</dimen>
     <dimen name="gap_vertical_large">40dp</dimen>
     <dimen name="gap_vertical_small">50dp</dimen>

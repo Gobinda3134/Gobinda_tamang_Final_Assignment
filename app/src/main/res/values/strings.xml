@@ -31,7 +31,48 @@
     <string name="login_failed">"Login failed"</string>
 
 
-    <string name="note">"For Register Please Contact Collage Administration"</string>
+    <string name="gov">Softwarica College</string>
+    <string name="ministry">College of IT and E-commerce</string>
+    <string name="pta_name">Pure IT College</string>
+    <string name="pta_email2">www.softwarica.edu.np</string>
+    <string name="copyright">&#169; 2017 PTA. All Rights Reserved.</string>
+    <string name="powered">Powered By : Erasoft Solution</string>
+    <string name="onwards">onwards</string>
+
+    <string name="pta_address">Mahakabi Marg, Dillibazar, Kathmandu</string>
+    <string name="phone_text">Phone No: </string>
+    <string name="landline_text">LandLine: </string>
+    <string name="email">Email:</string>
+    <string name="primary_text">Primary Email: </string>
+    <string name="secondary_text">Secondary Email: </string>
+    <string name="fax_text">P.O.Box: </string>
+    <string name="pta_phone">+977-1-4441577</string>
+    <string name="pta_land">4425661</string>
+    <string name="pta_fax">8975, EPC 5702</string>
+    <string name="pta_email">info@softwarica.edu.np</string>
+    <string name="pta_email1">ptanepal@hotmail.com </string>
+    <string name="website_text">Website: </string>
+    <string name="pta_website">www.softwarica.edu.np</string>
+
+<string name="university">University Partner</string>
+    <string name="pta_about">Coventry University is a dynamic, global and transformational ‘Modern University’ whose roots can
+        be traced back to 1843 to the Coventry School of Design. With a proud tradition as a provider of innovative teaching and
+        learning and a focus on impactful research, the university has established a robust reputation for pushing the boundaries
+        of higher education regionally, nationally and across the world.\n
+    \n In recent years Coventry’s student satisfaction levels and teaching quality have been rated amongst the best in the UK, which
+        in turn has led to impressive rises in every major university league table. The combination of these successes and its unique
+        approach to new developments earned Coventry a Gold rating in the UK Government’s Teaching Excellence Framework (TEF) in 2017,
+        and saw it labelled “one of the most innovative modern universities in the UK, bold with its vision of what the 21st century
+        student experience should be…” by the Times and Sunday Times Good University Guide 2019.\n
+        \n It was ranked as the country’s top modern university in the Guardian University Guide 2019 for the seventh year running –
+        and was in 13th place overall in the table.\n
+        \n The university was named ‘Modern University of the Year’ by the Times and Sunday Times for three years running from 2014
+        to 2016. Coventry also places in the top 200 in the THE Young University Rankings 2017.\n
+        \n The university is recognised internationally for its expertise in health, peace building and disaster management, and for
+        the world-leading calibre of its engineering and design graduates – particularly in the automotive field. It was awarded the
+        prestigious Queen’s Award for Enterprise in 2015 in recognition of its international growth and success over the past six years.
+    </string>
+
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

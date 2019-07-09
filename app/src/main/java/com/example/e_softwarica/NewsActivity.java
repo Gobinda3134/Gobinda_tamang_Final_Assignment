@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 public class NewsActivity extends AppCompatActivity {
 
-    TextView txtView;
-    Toolbar toolbar;
+   /* TextView txtView;
+    Toolbar toolbar;*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,7 +18,9 @@ public class NewsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_news);
 
 
-        txtView = findViewById(R.id.news_description);
+
+
+       /* txtView = findViewById(R.id.news_description);
         txtView.setText("Test");
 
         toolbar =(Toolbar) findViewById(R.id.toolbar);
@@ -26,7 +28,7 @@ public class NewsActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayShowTitleEnabled(false);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);*/
 
 
     }
@@ -42,7 +44,7 @@ public class NewsActivity extends AppCompatActivity {
         return true;
     }*/
 
-    @Override
+    /*@Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
         if(id==android.R.id.home){
@@ -58,6 +60,7 @@ public class NewsActivity extends AppCompatActivity {
         this.finish();
         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
         startActivity(intent);
-    }
+    }*/
 }
+
 

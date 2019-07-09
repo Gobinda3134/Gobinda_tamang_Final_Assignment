@@ -1,32 +1,28 @@
 package com.example.e_softwarica;
 
+
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Splash extends AppCompatActivity {
+import adapter.ViewPagerAdapter;
 
-    private static int splashInterval = 2000;
+public class SplashActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-
-        new Handler().postDelayed(new Runnable() {
+        Handler handler =new Handler();
+        handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent i = new Intent(Splash.this, LoginActivity.class);
-            startActivity(i);
 
-            this.finish();
+                Intent intent = new Intent(SplashActivity.this, MainActivity.class);
+                startActivity(intent);
+                finish();
             }
-
-            private void finish(){
-
-            }
-        },splashInterval);
-
+        },4000);
     }
 }
