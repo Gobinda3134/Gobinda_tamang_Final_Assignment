@@ -12,12 +12,12 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
-import api.API;
-import model.LoginSingupResponse;
+import com.example.e_softwarica.api.API;
+import com.example.e_softwarica.model.LoginSingupResponse;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import url.Url;
+import com.example.e_softwarica.url.Url;
 
 
 /**

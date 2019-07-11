@@ -54,7 +54,11 @@
     <string name="website_text">Website: </string>
     <string name="pta_website">www.softwarica.edu.np</string>
 
-<string name="university">University Partner</string>
+    <string name="short_des">Cisco Networking Academy is an IT skills and career building program for learning institutions
+        and individuals worldwide. More than 9.2 million people have joined the Networking Academy and become a force for change
+        in the global economy since 1997.</string>
+
+    <string name="university">University Partner</string>
     <string name="pta_about">Coventry University is a dynamic, global and transformational ‘Modern University’ whose roots can
         be traced back to 1843 to the Coventry School of Design. With a proud tradition as a provider of innovative teaching and
         learning and a focus on impactful research, the university has established a robust reputation for pushing the boundaries
@@ -72,6 +76,13 @@
         the world-leading calibre of its engineering and design graduates – particularly in the automotive field. It was awarded the
         prestigious Queen’s Award for Enterprise in 2015 in recognition of its international growth and success over the past six years.
     </string>
+
+    <string name="softwarica">There are millions of creative minds with many ideas constantly popping in their head. However, many of the times, the ideas just remain ideas, with no further life instilled to them. A creative mind requires the motivation of an enthusiastic body, a supportive team, the willingness to transform their ideas into a new innovation and […]</string>
+    <string name="ten">Things might look confusing after you finish your 12th grade board exams. It  is the end of ‘high school’ and now you enter the realm of adulting, where everything seems fast-paced and intimidating. Here’s a thought – don’t think too much into it. Most adults you meet are winging it and probably don’t have much […]</string>
+    <string name="accepting">It is quite daunting to choose a career path as soon as you cross the well-known “iron-gate”. This is the first BIG decision you are going to make for yourself and it’s definitely not easy. Aside from the confusions and pressure created by the people around you, you might also be scared that this one […]</string>
+    <string name="exp">The Certified Scrum Developer is a five (5) days training and certification course provided by scrum alliance, that was organized by Agile Nepal on DEC 12-16, 2018, In Hotel Manang. I took my CSD training where I was coached by Mr. M. Mizanur Rahman along with 30 Participants from several IT companies. I did not […]</string>
+    <string name="project">Givemegoal.com is a sports portal that provides information on different major League games and International country matches including English Premier League , Spanish La Liga , German Bundesliga , Italian Series A, etc. The project was started in the year 2012 by the First batch of Softwarica College students and officially launched on the Valentines […]</string>
+    <string name="par">Regional scrum gathering was recently held in Nepal on Dec 08-09,2018. The event was organized by Agile Nepal. The regional scrum gathering is an event where people can meet scrum practitioners, trainers, coaches and enthusiasts. Where we can acquire knowledge about the current trend around world. The two-day conference came with the bundle of sessions […]</string>
 
 
     <!-- TODO: Remove or change this placeholder text -->

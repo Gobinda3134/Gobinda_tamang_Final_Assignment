@@ -12,10 +12,10 @@ import android.view.ViewGroup;
 
 public class AboutCollegeFragment extends Fragment {
     View rootView;
-    @Nullable
+
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        rootView=inflater.inflate(R.layout.fragment_about_college,container,false);
+    public View onCreateView(LayoutInflater inflater, ViewGroup group, Bundle b) {
+        rootView = inflater.inflate(R.layout.fragment_about_college, group, false);
         return rootView;
     }
 }

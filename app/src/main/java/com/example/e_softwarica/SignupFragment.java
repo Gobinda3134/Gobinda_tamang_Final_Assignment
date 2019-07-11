@@ -1,7 +1,6 @@
 package com.example.e_softwarica;
 
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
@@ -14,11 +13,11 @@ import android.widget.Toast;
 
 
 
-import api.API;
+import com.example.e_softwarica.api.API;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import url.Url;
+import com.example.e_softwarica.url.Url;
 
 
 /**
